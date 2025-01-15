@@ -6,16 +6,6 @@ Rodríguez, J. J., Diez-Pastor, J. F., Arnaiz-Gonzalez, A., & Kuncheva, L. I. (2
  
  
 ```
-@article{ArnaizGonzalez2016,   
-  title = "Instance selection of linear complexity for big data",   
-  journal = "Knowledge-Based Systems ",   
-  volume = "107",   
-  pages = "83 - 95",   
-  year = "2016",   
-  issn = "0950-7051",   
-  doi = "10.1016/j.knosys.2016.05.056",   
-  author = "\'{A}lvar Arnaiz-Gonz\'{a}lez and Jos\'{e} F. D\'{i}ez-Pastor and Juan J. Rodr\'{i}guez and C\'{e}sar Garc\'{i}a-Osorio"   
-}
 @article{Rodriguez2020,
   title = {Random Balance ensembles for multiclass imbalance learning},
   journal = {Knowledge-Based Systems},
